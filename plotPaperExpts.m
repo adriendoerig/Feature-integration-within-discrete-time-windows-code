@@ -7,6 +7,7 @@
 % first or the second discrete time window, for each stimulus. Parameters
 % are fixed for all experiments, except readoutTime, which is changed to
 % account for individual differences in suppFig1.
+% Written by Adrien Doerig at the Laboratory of Psychophysics, EPFL, 2019
 
 clear; close all; clc;
 

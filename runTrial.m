@@ -1,3 +1,5 @@
+% Written by Adrien Doerig at the Laboratory of Psychophysics, EPFL, 2019
+
 function [decision, success, wongWang_input] = runTrial(simulationTime, stimulus, dt, readoutTime, readoutWindow, tauIntegrate, wongWang_gain, wongWang_sigma, wongWang_mu0)
 % RUNTRIAL simulates performance on one trial and returns the answer and
 % RT.

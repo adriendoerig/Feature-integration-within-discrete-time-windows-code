@@ -1,5 +1,5 @@
-% plots each memory box from a stimulus (which is created by the
-% createStimulus function)
+% plots each memory box from a stimulus (which is created by the createStimulus function)
+% Written by Adrien Doerig at the Laboratory of Psychophysics, EPFL, 2019
 
 simulationTime = 1;  % [s]
 readoutTime = 0.425; % [s]

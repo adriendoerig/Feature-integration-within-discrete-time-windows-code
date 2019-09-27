@@ -1,3 +1,5 @@
+% Written by Adrien Doerig at the Laboratory of Psychophysics, EPFL, 2019
+
 function [ summedBoxOutputs ] = memoryBoxesDynamicsDifferentDurations( stimulus, tauIntegrate, readoutTime, simulationTime, dt, readoutWindow)
 %MEMORYBOXESDYNAMICS Manages the memory box dynamics and returns their output
 % Parameters: See runTrial.m

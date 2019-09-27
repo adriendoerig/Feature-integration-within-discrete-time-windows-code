@@ -1,5 +1,7 @@
-function [decision, DT, success] = WongWangBoxes(v, mu0) 
 %%% Decision network used in Wong & Wang, JNS 2006 appendix %%%
+% Modified by Adrien Doerig to fit in our modelling pipeline at the Laboratory of Psychophysics, EPFL, 2019
+
+function [decision, DT, success] = WongWangBoxes(v, mu0) 
 % v = one number, input current (1=vernier, -1=antivernier)
 % mu0 = input received when there is no bias
 % decision = 1 for first vernier

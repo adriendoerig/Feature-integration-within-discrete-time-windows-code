@@ -1,3 +1,5 @@
+% Written by Adrien Doerig at the Laboratory of Psychophysics, EPFL, 2019
+
 function [ boxOutputValue, boxOutputTrace ] = boxIntegrate( inputSequence, tau, dt, varargin )
 %BOXINTEGRATE Integrates input in a memory box
 % Parameters:

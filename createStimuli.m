@@ -1,3 +1,5 @@
+% Written By Adrien Doerig at the Laboratory of Psychophysics, EPFL, 2019
+
 function [ stimuli ] = createStimuli( dt, stimType )
 %CREATESTIMULI returns a cell of cells containing stimuli from the family
 %stimType (see human data excel sheet). 
